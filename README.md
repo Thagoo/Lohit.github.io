@@ -1,6 +1,6 @@
 # Thago
 
-[![Thago](https://img.shields.io/badge/THAGO-.io-blue)](https://thagoo.github.io)
+[![Thago](https://img.shields.io/badge/THAGO-.io-blue)](https://lohit.github.io)
 
 # Credits
 
