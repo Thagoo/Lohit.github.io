@@ -56,7 +56,7 @@ btn-socials {
   border-radius: 8px;
   cursor: pointer;
 }
-.btn-socials-email {
+.btn-socials.btn-socials-email {
   color: #ffffff;
   background-color: #0078e6;
 }

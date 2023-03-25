@@ -8,7 +8,7 @@ function Socials() {
     <Container className="main" fluid>
       <NavbarHeader />
       <Container className="socials-content">
-        <Image className="avatar" src="lohith.png" />
+        <Image className="avatar" src="images/lohith.png" />
         <h2 style={{ color: `#ffffff` }}>Lohith (@thagoo)</h2>
         <hr />
         <a
@@ -17,7 +17,7 @@ function Socials() {
           target="_blank"
           rel="noopener"
         >
-          <img class="icon" src="email.svg" alt="Email Logo"></img>
+          <img class="icon" src="images/email.svg" alt="Email Logo"></img>
           lohitgowda56@gmail
         </a>
         <a
@@ -26,7 +26,7 @@ function Socials() {
           target="_blank"
           rel="noopener"
         >
-          <img class="icon" src="telegram.svg" alt="Telegram Logo"></img>
+          <img class="icon" src="images/telegram.svg" alt="Telegram Logo"></img>
           Telegram
         </a>
         <a
@@ -35,7 +35,7 @@ function Socials() {
           target="_blank"
           rel="noopener"
         >
-          <img class="icon" src="discord.svg" alt="Discord Logo"></img>
+          <img class="icon" src="images/discord.svg" alt="Discord Logo"></img>
           Discord
         </a>
         <a
@@ -44,7 +44,7 @@ function Socials() {
           target="_blank"
           rel="noopener"
         >
-          <img class="icon" src="reddit.svg" alt="Reddit Logo"></img>
+          <img class="icon" src="images/reddit.svg" alt="Reddit Logo"></img>
           Reddit
         </a>
         <a
@@ -53,7 +53,7 @@ function Socials() {
           target="_blank"
           rel="noopener"
         >
-          <img class="icon" src="twitter.svg" alt="Twitter Logo"></img>
+          <img class="icon" src="images/twitter.svg" alt="Twitter Logo"></img>
           Twitter
         </a>
         <a
@@ -62,7 +62,11 @@ function Socials() {
           target="_blank"
           rel="noopener"
         >
-          <img class="icon" src="instagram.svg" alt="Instagram Logo"></img>
+          <img
+            class="icon"
+            src="images/instagram.svg"
+            alt="Instagram Logo"
+          ></img>
           Instagram
         </a>
         <a
@@ -71,7 +75,7 @@ function Socials() {
           target="_blank"
           rel="noopener"
         >
-          <img class="icon" src="github.svg" alt="Github Logo"></img>
+          <img class="icon" src="images/github.svg" alt="Github Logo"></img>
           Github
         </a>
         <a
@@ -80,7 +84,11 @@ function Socials() {
           target="_blank"
           rel="noopener"
         >
-          <img class="icon-xda" src="xda-white-text.webp" alt="XDA Logo"></img>
+          <img
+            class="icon-xda"
+            src="images/xda-white-text.webp"
+            alt="XDA Logo"
+          ></img>
         </a>
       </Container>
       <Footer />
