@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 70vh;
+  height: 50vh;
 }
 
 .contact-content {
@@ -39,6 +39,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+.footer {
+  margin-top: 10vh;
 }
 .btn-socials,
 btn-socials {
@@ -87,6 +90,10 @@ btn-socials {
 .btn-socials-xda {
   color: #ffffff;
   background-color: #1b1d21;
+}
+.btn-socials-linkedin {
+  color: #ffffff;
+  background-color: #1400c8;
 }
 
 btn-socials,

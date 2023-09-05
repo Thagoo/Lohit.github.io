@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Footer() {
   return (
     <footer>
-      <Container>
+      <Container className="footer">
         <Navbar expand="sm" variant="dark">
           <Nav>
             <Nav.Link href="https://github.com/Thagoo/thagoo.github.io">
